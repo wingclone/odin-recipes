@@ -1,4 +1,14 @@
 * {
     background-color: rgb(11, 167, 167);
     color: white;
+    font-family:"Courier New", Courier, monospace;
+}
+
+#image {
+    height: 400px;
+    width: auto;
+}
+
+#title {
+    font-size: 40px;
 }
