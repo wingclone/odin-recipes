@@ -15,6 +15,11 @@
     margin: 0 auto;
 }
 
+.recipe, .steps {
+    display: inline-block;
+    color: rgb(11, 167, 167);
+}
+
 .list.home {
     display: block;
     font-size: 30px;
@@ -23,10 +28,19 @@
 
 
 #image {
+    display: block;
     height: 400px;
     width: auto;
+    margin: 30px auto;
 }
 
 #heading {
+    display: block;
     font-size: 40px;
+    color: white;
+    background-color: rgb(11, 167, 167);
+    height: auto;
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
 }
