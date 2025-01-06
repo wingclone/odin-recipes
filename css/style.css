@@ -15,9 +15,9 @@
     margin: 0 auto;
 }
 
-.recipe, .steps {
-    display: inline-block;
+.recipe {
     color: rgb(11, 167, 167);
+    float: right;
 }
 
 .list.home {
@@ -29,9 +29,10 @@
 
 #image {
     display: block;
-    height: 400px;
+    height: 700px;
     width: auto;
-    margin: 30px auto;
+    margin: 50px;
+    float: left;
 }
 
 #heading {
