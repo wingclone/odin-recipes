@@ -1,0 +1,32 @@
+* {
+    background-color: white;
+    font-family:"Courier New", Courier, monospace;
+    box-sizing: border-box;
+}
+
+.title {
+    display: block;
+    font-size: 80px;
+    background-color: rgb(11, 167, 167);
+    color: white;
+    height: auto;
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.list.home {
+    display: block;
+    font-size: 30px;
+    color: rgb(11, 167, 167);
+}
+
+
+#image {
+    height: 400px;
+    width: auto;
+}
+
+#heading {
+    font-size: 40px;
+}
